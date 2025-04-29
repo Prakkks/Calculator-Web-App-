@@ -22,7 +22,6 @@ Built using **Flask (Python)** for backend logic, with **HTML/CSS/JS** on the fr
   - `/scientific` → Scientific operations
   - `/trigonometry` → Trigonometric functions
 - 🧠 Flask handles all route logic and form submissions
-- 🎨 Clean and responsive UI
 - 🔄 Backend logic using Python (Flask)
 - 💻 Supports both button clicks and keyboard input (optional)
 
