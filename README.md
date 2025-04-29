@@ -28,5 +28,11 @@ Built using **Flask (Python)** for backend logic, with **HTML/CSS/JS** on the fr
 
 ---
 
-## 🗂 Project Structure
+## 📸 Screenshots
+
+### Basic Calculator
+![Basic](simple_calculator.png)
+
+### Scientific Calculator
+![Scientific](calculator.png)
 
